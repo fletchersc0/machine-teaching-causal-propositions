@@ -1,0 +1,48 @@
+MACHINE TEACHING CAUSAL PROPOSITIONS ACROSS MODEL EQUIVALENCE CLASSES
+Poster references — APA 7, plain-text version
+
+POSTER CITATION KEY
+
+[1] Pearl (2009)
+[2] Shpitser and Pearl (2008)
+[3] Goldman and Kearns (1995)
+[4] Zhu (2013)
+[5] Zhu, Singla, Zilles, and Rafferty (2018)
+[6] Chen, Singla, Mac Aodha, Perona, and Yue (2018)
+[7] Melo, Guerra, and Lopes (2018)
+[8] Rafferty, Brunskill, Griffiths, and Shafto (2016)
+[9] Liu and Zhu (2016)
+[10] Mansouri, Chen, Vartanian, Zhu, and Singla (2019)
+[11] Zhu, Liu, and Lopes (2017)
+[12] Patil, Zhu, Kopeć, and Love (2014)
+[13] Ross and Andreas (2024)
+
+The numbers above preserve the poster's citation order. The full references below are alphabetised in APA style.
+
+REFERENCES
+
+Chen, Y., Singla, A., Mac Aodha, O., Perona, P., & Yue, Y. (2018). Understanding the role of adaptivity in machine teaching: The case of version space learners. In S. Bengio, H. Wallach, H. Larochelle, K. Grauman, N. Cesa-Bianchi, & R. Garnett (Eds.), Advances in neural information processing systems (Vol. 31, pp. 1476–1486). Curran Associates, Inc. https://proceedings.neurips.cc/paper_files/paper/2018/hash/bf62768ca46b6c3b5bea9515d1a1fc45-Abstract.html
+
+Goldman, S. A., & Kearns, M. J. (1995). On the complexity of teaching. Journal of Computer and System Sciences, 50(1), 20–31. https://doi.org/10.1006/jcss.1995.1003
+
+Liu, J., & Zhu, X. (2016). The teaching dimension of linear learners. Journal of Machine Learning Research, 17(162), 1–25. https://www.jmlr.org/papers/v17/15-630.html
+
+Mansouri, F., Chen, Y., Vartanian, A., Zhu, X., & Singla, A. (2019). Preference-based batch and sequential teaching: Towards a unified view of models. In H. Wallach, H. Larochelle, A. Beygelzimer, F. d'Alché-Buc, E. Fox, & R. Garnett (Eds.), Advances in neural information processing systems (Vol. 32, pp. 9199–9209). Curran Associates, Inc. https://proceedings.neurips.cc/paper_files/paper/2019/hash/4dc3ed26a29c9c3df3ec373524377a5b-Abstract.html
+
+Melo, F. S., Guerra, C., & Lopes, M. (2018). Interactive optimal teaching with unknown learners. In J. Lang (Ed.), Proceedings of the twenty-seventh international joint conference on artificial intelligence (pp. 2567–2573). International Joint Conferences on Artificial Intelligence Organization. https://doi.org/10.24963/ijcai.2018/356
+
+Patil, K. R., Zhu, X., Kopeć, Ł., & Love, B. C. (2014). Optimal teaching for limited-capacity human learners. In Z. Ghahramani, M. Welling, C. Cortes, N. D. Lawrence, & K. Q. Weinberger (Eds.), Advances in neural information processing systems (Vol. 27, pp. 2465–2473). Curran Associates, Inc. https://proceedings.neurips.cc/paper_files/paper/2014/hash/5138ed99148ce91255d67df63be46421-Abstract.html
+
+Pearl, J. (2009). Causality: Models, reasoning, and inference (2nd ed.). Cambridge University Press. https://doi.org/10.1017/CBO9780511803161
+
+Rafferty, A. N., Brunskill, E., Griffiths, T. L., & Shafto, P. (2016). Faster teaching via POMDP planning. Cognitive Science, 40(6), 1290–1332. https://doi.org/10.1111/cogs.12290
+
+Ross, A., & Andreas, J. (2024). Toward in-context teaching: Adapting examples to students' misconceptions. In L.-W. Ku, A. Martins, & V. Srikumar (Eds.), Proceedings of the 62nd annual meeting of the Association for Computational Linguistics (Volume 1: Long papers) (pp. 13283–13310). Association for Computational Linguistics. https://doi.org/10.18653/v1/2024.acl-long.718
+
+Shpitser, I., & Pearl, J. (2008). Complete identification methods for the causal hierarchy. Journal of Machine Learning Research, 9(64), 1941–1979. https://jmlr.org/papers/v9/shpitser08a.html
+
+Zhu, X. (2013). Machine teaching for Bayesian learners in the exponential family. In C. J. C. Burges, L. Bottou, M. Welling, Z. Ghahramani, & K. Q. Weinberger (Eds.), Advances in neural information processing systems (Vol. 26, pp. 1905–1913). Curran Associates, Inc. https://proceedings.neurips.cc/paper_files/paper/2013/hash/9c01802ddb981e6bcfbec0f0516b8e35-Abstract.html
+
+Zhu, X., Liu, J., & Lopes, M. (2017). No learner left behind: On the complexity of teaching multiple learners simultaneously. In C. Sierra (Ed.), Proceedings of the twenty-sixth international joint conference on artificial intelligence (pp. 3588–3594). International Joint Conferences on Artificial Intelligence Organization. https://doi.org/10.24963/ijcai.2017/502
+
+Zhu, X., Singla, A., Zilles, S., & Rafferty, A. N. (2018). An overview of machine teaching [Preprint]. arXiv. https://doi.org/10.48550/arXiv.1801.05927
