@@ -1,7 +1,4 @@
 MACHINE TEACHING CAUSAL PROPOSITIONS ACROSS MODEL EQUIVALENCE CLASSES
-Poster references — APA 7, plain-text version
-
-POSTER CITATION KEY
 
 [1] Pearl (2009)
 [2] Shpitser and Pearl (2008)
@@ -16,8 +13,6 @@ POSTER CITATION KEY
 [11] Zhu, Liu, and Lopes (2017)
 [12] Patil, Zhu, Kopeć, and Love (2014)
 [13] Ross and Andreas (2024)
-
-The numbers above preserve the poster's citation order. The full references below are alphabetised in APA style.
 
 REFERENCES
 
